@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 - Студент: [Natalya Erbet](https://up.htmlacademy.ru/javascript/26/user/998653).
-- Наставник: `Дмитрий Гуляев`.
+- Наставник: `Дмитрий Гуляев`(https://htmlacademy.ru/profile/dima).
 
 ---
 
