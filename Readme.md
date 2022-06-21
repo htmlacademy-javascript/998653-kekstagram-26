@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 - Студент: [Natalya Erbet](https://up.htmlacademy.ru/javascript/26/user/998653).
-- Наставник: `Дмитрий Гуляев`(https://htmlacademy.ru/profile/dima).
+- Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/profile/dima).
 
 ---
 
@@ -9,7 +9,6 @@ _Не удаляйте и не изменяйте самовольно файл�
 _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `package-lock.json`, `package.json`., `.github`_
 
 ---
-
 
 [Как работать с Git на проекте](Contributing.md) | [Как работать над проектом](Workflow.md)
 
